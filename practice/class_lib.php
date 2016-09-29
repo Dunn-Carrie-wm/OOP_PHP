@@ -42,7 +42,7 @@ class employee extends Person{
 
     function __construct($employee_name)
     {
-       parent::__construct($employee_name);
+        parent::__construct($employee_name);
     }
 }
 
